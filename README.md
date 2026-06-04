@@ -9,7 +9,8 @@
 
 <br>
 > 基于人民卫生出版社《外科学》第10版的临床技能手册 — 240 项外科与急危重症临床技能
-[![pic](https://github.com/xllgreen/Surgery-PMPH-10edition-/blob/main/Surgery.png)]
+<br>
+![book](https://github.com/xllgreen/Surgery-PMPH-10edition-/blob/main/assets/Surgery.png)
 <br>
 
 何必苦苦读一本书<br>
