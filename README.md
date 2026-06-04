@@ -1,6 +1,29 @@
 # 外科学 Surgery-PMPH-10edition
+<div align="center">
 
+> *「21世纪医学生指南」*
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
+
+<br>
 > 基于人民卫生出版社《外科学》第10版的临床技能手册 — 240 项外科与急危重症临床技能
+
+<br>
+
+何必苦苦读一本书<br>
+只需输入一个问题，自动从课本中找到解决方案
+
+<br>
+
+**其他语言 / Other Languages:**
+
+[English](README_EN.md) · [日本語](README_JA.md) 
+
+</div>
+
+---
 
 ## 项目简介
 
@@ -51,6 +74,25 @@ Surgery-PMPH-10edition/
 
 ## 快速开始
 
+### 安装
+
+CLI：
+```bash
+openclaw skills install surgery-pmph-10edition
+```
+
+Prompt：
+```bash
+Before installing anything, inspect the ClawHub skill metadata and setup requirements.
+If the skill asks you to install a third-party package or CLI, verify its source, maintainer, and package contents before running the install command.
+Install the skill "Surgery-PMPH-10edition" (xllgreen/surgery-pmph-10edition) from ClawHub only after those checks pass.
+Skill page: https://clawhub.ai/xllgreen/surgery-pmph-10edition
+Keep the work scoped to this skill only.
+After install, help me finish setup from verified skill metadata.
+Use only the metadata you can verify from ClawHub; do not invent missing requirements.
+Ask before making any broader environment changes.
+```
+
 ### 查找技能
 
 ```bash
@@ -69,6 +111,13 @@ bash scripts/skill-report.sh
 3. **注意事项** — 禁忌与警示
 4. **参考文档** — 详细补充资料
 
+## 关于作者
+
+**小绿绿 xllgreen(https://xllgreen.github.io)** — 九江学院临床医学院学生·科技极客
+
 ## 许可证
 
 本项目内容基于人民卫生出版社《外科学》第10版整理，仅供学习参考。
+
+## Star History
+[![Star History Chart](https://api.star-history.com/chart?repos=xllgreen/Surgery-PMPH-10edition-&type=date&legend=top-left)](https://www.star-history.com/?repos=xllgreen%2FSurgery-PMPH-10edition-&type=date&legend=top-left)
