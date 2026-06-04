@@ -120,6 +120,7 @@ bash scripts/skill-report.sh
 本项目内容基于人民卫生出版社《外科学》第10版整理，仅供学习参考。
 
 ## Star History
+
 <a href="https://www.star-history.com/?repos=xllgreen%2FSurgery-PMPH-10edition-&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=xllgreen/Surgery-PMPH-10edition-&type=date&theme=dark&legend=top-left" />
