@@ -113,6 +113,37 @@ bash scripts/skill-report.sh
 3. **注意事项** — 禁忌与警示
 4. **参考文档** — 详细补充资料
 
+### 提问策略
+
+#### 1.**概念** 
+Question:
+```bash
+
+```
+Answer：
+```bash
+
+```
+
+#### 2.**临床案例分析** 
+Question:
+```bash
+
+```
+Answer：
+```bash
+
+```
+#### 3.**考试题目**
+Question:
+```bash
+
+```
+Answer：
+```bash
+
+```
+
 ## 关于作者
 
 **小绿绿 xllgreen(https://xllgreen.github.io)** — 九江学院临床医学院学生·科技极客
