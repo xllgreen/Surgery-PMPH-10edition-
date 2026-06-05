@@ -126,10 +126,14 @@ Microsoft Visual Studio Code：https://code.visualstudio.com/
 Claude Code for VS Code：https://claude.com/
 © 2026 Anthropic PBC
 <br>
-<img src="https://cdn.deepseek.com/logo.png?x-image-process=image%2Fresize%2Cw_1920" width="130px">DeepSeek API：https://platform.deepseek.com/
+<br>
+<img src="https://cdn.deepseek.com/logo.png?x-image-process=image%2Fresize%2Cw_1920" width="130px">
+<br>DeepSeek API：https://platform.deepseek.com/
 © 2026 杭州深度求索人工智能基础技术研究有限公司 版权所有
 <br>
-<img src="https://cdn.cnbj1.fds.api.mi-img.com/aife/mimo-blog-fe/doc_build/static/image/logo.99baaffe.png" width="130px">Xiaomi Mimo API：https://platform.xiaomimimo.com/
+<br>
+<img src="https://cdn.cnbj1.fds.api.mi-img.com/aife/mimo-blog-fe/doc_build/static/image/logo.99baaffe.png" width="130px">
+<br>Xiaomi Mimo API：https://platform.xiaomimimo.com/
 Copyright © 2010 - 2026 Xiaomi. All Rights Reserved
 <br>
 
